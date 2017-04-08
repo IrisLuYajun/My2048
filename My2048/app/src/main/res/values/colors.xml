@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="scoreColor">#ffc0cb</color>
+    <color name="linearLayoutColor">#ffc0cb</color>
+    <color name="buttonColor">#f5fffa</color>
+</resources>
